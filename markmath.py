@@ -1,6 +1,6 @@
 # Python 3
-# dependencies:
-#		asciimath
+# dependencies (python modules):
+#		asciimathml
 #		markdown
 #		pypandoc
 
